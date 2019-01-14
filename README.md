@@ -1,4 +1,4 @@
-## Multi-Class Text Classification using Convolution Neural Network
+## Multi-Class Text Classification using Convolutional Neural Network
 
 This is an example of how effectively use Convolutional Neural Network to classify  
 obfuscated(order of words can be mixed) text into 12 classes. 
